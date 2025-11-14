@@ -1,4 +1,9 @@
-🧠 Customer 360 & Churn Intelligence Dashboard (Olist Ecommerce)
+<h1>🧠 Customer 360 & Churn Intelligence Dashboard (Olist Ecommerce)</h1>
+
+<p align="center">
+  <img src="preview.png" alt="Dashboard Preview" width="85%" />
+</p>
+
 
 A full end-to-end analytics project including churn modelling, segmentation, and product recommendations.
 
